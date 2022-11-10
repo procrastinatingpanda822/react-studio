@@ -1,0 +1,25 @@
+.responsive {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+.button2 {
+    border-radius: 4px;
+    text-align: center;
+}
+
+.parent {
+    display: flex;
+    flex-direction: row;
+}
+
+.child1 {
+    width: 50%;
+    background-color: lightgreen;
+}
+
+.child2 {
+    width: 50%;
+    height: 100vh;
+}
